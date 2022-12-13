@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.card{
+    width: 300px;
+}
+
+.card-body{
+    text-align: justify;
+    margin: 0px auto;
+}
+
+.card-title{
+    text-align: center;
+    font-family: "Bodoni MT";
+    color: crimson;
+    margin: 10px;
+}
+
+.card-text{
+    margin: 10px;
+    text-align: justify;
+}
+
+.card-price{
+    text-align: center;
+    color: limegreen;
+    margin: 10px;
+}
+
+.card-btn-detail{
+    margin: 0px auto;
+    text-align: center;
+    background-color: darkblue;
+    width: 150px;
+    height: 30px;
+    padding: 6px;
+    border-radius: 6px;
+}
+
+a.active{
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Arial;
+}
